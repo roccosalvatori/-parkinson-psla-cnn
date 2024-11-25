@@ -12,6 +12,8 @@ The developed system leverages deep learning and signal processing techniques to
 - `model.py`: Contains the model architecture.
 - `test_torch.py`: Script to verify PyTorch installation.
 - `requirements.txt`: List of Python dependencies.
+- `logs.sh`: Terminal outputs with the results.
+- `best_model.pth`: Trained model weights.
 
 ## Setup Instructions
 
