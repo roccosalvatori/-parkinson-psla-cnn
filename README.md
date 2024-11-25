@@ -20,6 +20,7 @@ The developed system leverages deep learning and signal processing techniques to
 ### Prerequisites
 
 - Ensure you have [Homebrew](https://brew.sh/) installed on your system.
+- Python 3.11 is required to correctly use PyTorch
 
 ### Step 1: Set Up the Environment
 
