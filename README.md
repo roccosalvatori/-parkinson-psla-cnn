@@ -14,6 +14,8 @@ The developed system leverages deep learning and signal processing techniques to
 - `requirements.txt`: List of Python dependencies.
 - `logs.sh`: Terminal outputs with the results.
 - `best_model.pth`: Trained model weights.
+- `/results` : Training results graphics.
+- `/abandoned_strategy` : First strategy that was ditched.
 
 ## Setup Instructions
 
