@@ -26,12 +26,17 @@ The developed system leverages deep learning and signal processing techniques to
 
 ### Step 1: Set Up the Environment
 
-1. **Run the setup script**: This will install Python 3.11, create a virtual environment, and install all necessary dependencies.
+1. **Make sur the setup file is executable**: This will allow you to run the `setup.sh` script to install and configure you virtual environment.
+   ```bash
+   chmod +x setup.sh
+   ```
+   
+2. **Run the setup script**: This will install Python 3.11, create a virtual environment, and install all necessary dependencies.
    ```bash
    ./setup.sh
    ```
 
-2. **Activate the virtual environment**: The setup script will automatically activate the virtual environment. If you need to activate it manually, use:
+3. **Activate the virtual environment**: The setup script will automatically activate the virtual environment. If you need to activate it manually, use:
    ```bash
    source venv/bin/activate
    ```
